@@ -1,12 +1,16 @@
 {
-    "name": "stkevich/yii2-ckeditor5",
-    "description": "ckeditor 5 widget for yii2 framework",
+    "name": "harunmahfud/yii2-ckeditor5",
+    "description": "ckeditor 5 widget for yii2 framework. Forked from https://github.com/stkevich/yii2-ckeditor5",
     "type": "extension",
     "license": "MIT",
     "authors": [
         {
             "name": "Stas Kevich",
             "email": "st.kevich@gmail.com"
+        },
+        {
+            "name": "Mahfud Harun",
+            "email": "harunmahfud@gmail.com"
         }
     ],
     "minimum-stability": "dev",
