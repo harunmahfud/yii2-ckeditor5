@@ -16,7 +16,7 @@ class BalloonAssets extends AssetBundle
     ];
 
     public $js = [
-        'https://cdn.ckeditor.com/ckeditor5/11.0.1/balloon/ckeditor.js',
+        'https://cdn.ckeditor.com/ckeditor5/12.3.1/balloon/ckeditor.js',
     ];
 
     public $depends = [
