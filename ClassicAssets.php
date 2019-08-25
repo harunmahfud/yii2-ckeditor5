@@ -11,12 +11,13 @@ use yii\web\AssetBundle;
 
 class ClassicAssets extends AssetBundle
 {
+    public $sourcePath = "@vendor/harunmahfud";
 
     public $css = [
     ];
 
     public $js = [
-        'https://cdn.ckeditor.com/ckeditor5/12.3.1/classic/ckeditor.js',
+        'yii2-ckeditor5/assets/classic/ckeditor.js',
     ];
 
     public $depends = [
